@@ -1,10 +1,9 @@
 # recipeApp
 ### Instructions for Compiling and Running the Software
 
-#### Prerequisites
-- Ensure you have .NET installed on your machine. You can download it from [here](https://dotnet.microsoft.com/download).
 
-#### Steps to Compile the Software
+
+Steps to Compile the Software
 1. **Download the Source Code**: Obtain the source code from the provided repository or source.
 2. **Open the Project**:
    - Open Visual Studio.
@@ -25,7 +24,7 @@
    - The main window of the application will open, allowing you to add recipes, ingredients, and steps, and view or filter recipes as described in the user manual.
 
 
-     GitHub Repository:
+     GitHub Repository: https://github.com/ST10369372/recipeApp.git
 
  Description of Changes Based on Feedback
 
@@ -36,4 +35,4 @@ Based on the lecturer's feedback, the following changes were made to the Recipe 
 3. **Independent Ingredient Input Fields**: Reorganized the ingredient input section to have independent text boxes for each attribute (name, quantity, unit, calories, food group). This change enhances clarity and usability, ensuring users can input ingredients more efficiently and with fewer errors.
 4. **User Interface Enhancements**: Made several UI improvements to ensure a more intuitive and user-friendly experience, such as clear labeling, organized layout, and interactive elements for generating step fields.
 
-These changes were implemented to address the usability issues identified by the lecturer and to provide a more robust and user-friendly application.
+
